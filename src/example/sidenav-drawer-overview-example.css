@@ -2,7 +2,7 @@
   width: auto;
   height: 100%;
   margin: 0;
-  border: 1px solid #555;
+  border: 1px solid red;
   /* The background property is added to clearly distinguish the borders between drawer and main
      content */
   background: #eee;
